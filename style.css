@@ -1,0 +1,57 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar {
+    height: 100px;
+}
+.logo img {
+    height: 130px;
+    width: 230px;
+    margin-right: 150px;
+}
+
+.nav-link {
+    border-left: 1px solid rgb(80, 71, 71);
+}
+.last {
+    border-right: 1px solid black;
+}
+.side {
+    height: 60px;
+    width: 250px;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+}
+.side span {
+    color: yellow;
+}
+marquee {
+   color: purple;
+    background-color: rgb(230, 222, 222);
+}
+.purple {
+    color: purple;
+}
+
+.brdr {
+    border: none;
+}
+.round {
+    border-radius: 50%;
+}
+.sec-3 {
+    background-color: purple;
+}
+.rmve {
+    background-color: purple;
+
+}
+.clr {
+    background-color: rgb(214, 204, 204);
+}
+.back {
+    background-color: purple;
+}
